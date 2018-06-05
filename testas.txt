@@ -1,2 +1,3 @@
 NaujasParasymas
 Dar vienas
+Pakeitimas po clone
